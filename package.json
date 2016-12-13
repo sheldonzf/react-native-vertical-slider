@@ -1,6 +1,6 @@
 {
   "name": "react-native-vertical-slider",
-  "version": "1.0.1",
+  "version": "1.0.3',
   "description": "a component of react native is used to auto slider on vertical direction width endless.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sheldonzf/taobing.git"
+    "url": "https://github.com/sheldonzf/react-native-vertical-slider.git"
   },
   "keywords": [
     "react",
@@ -22,9 +22,9 @@
   "author": "sheldonzf",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sheldonzf/taobing/issues"
+    "url": "https://github.com/sheldonzf/react-native-vertical-slider/issues"
   },
-  "homepage": "https://github.com/sheldonzf/taobing#readme",
+  "homepage": "https://github.com/sheldonzf/react-native-vertical-slider#readme",
   "devDependencies": {
     "react": "^15.4.1",
     "react-native": "^0.39.2"
